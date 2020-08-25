@@ -1,0 +1,28 @@
+ #await .wmx-top{
+    width: 100%;
+    height: 45px;
+    background: #767676;
+    line-height: 45px;
+     display: flex;
+     justify-content: space-between;
+}
+ #await .wmx-L{
+    float: left;
+    font-size: 25px;
+    color: white;
+}
+ #await .wmx-R{
+    float: right;
+    font-size: 25px;
+    color: #dfdfdf;
+}
+ #await .wmx_s{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+ #await .wmx-Await{
+    width: 100%;
+    height: 300px;
+    background: #cccccc;
+}

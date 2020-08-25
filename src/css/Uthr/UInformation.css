@@ -1,0 +1,51 @@
+.ordertop {
+    width: 100vw;
+    height: 4vh;
+    background-color: #00A9AF;
+    text-align: center;
+    color: white;
+}
+
+.ordertoptext {
+    display: inline-block;
+    padding-top: 0.6vh;
+    color: rgb(251, 255, 251);
+}
+
+.ordertopicon {
+    padding-left: 0.5vw;
+    padding-top: 0.7vh;
+    float: left;
+    font-size: 20px;
+}
+
+.orderxx {
+    display: inline-block;
+    float: left;
+}
+
+.ordern {
+    float: left;
+}
+
+.ant-list .ant-list-split {
+    color: #000000 !important;
+}
+
+.ant-list-split .ant-list-item {
+    width: 90vw;
+    margin-left: 5vw;
+    margin-top: 1vh;
+    border-left: 7px solid #00A9AF;
+    border-top: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #eee;
+    padding-right: 5vw;
+}
+
+.aaaa {
+    float: left;
+    padding-left: 48vw;
+}

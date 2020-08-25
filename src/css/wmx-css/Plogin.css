@@ -1,0 +1,39 @@
+.Plogin #components-form-demo-normal-login .login-form {
+    max-width: 300px;
+}
+.Plogin #components-form-demo-normal-login .login-form-forgot {
+    float: right;
+}
+.Plogin #components-form-demo-normal-login .ant-col-rtl .login-form-forgot {
+    float: left;
+}
+.Plogin #components-form-demo-normal-login .login-form-button {
+    width: 100%;
+}
+.Plogin .p_form{
+    margin: 0 40px;
+}
+.Plogin{
+    margin: 0 ;
+    padding: 0;
+}
+.Plogin .p_content{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.Plogin .p_content>img{
+    width: 150px;
+}
+.Plogin .p_title{
+    background-color:rgb(51,51,51);
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+.Plogin .p_title>h3{
+    color: white;
+}
+.Plogin .wmx-center{
+    margin-left: 120px!important;
+}

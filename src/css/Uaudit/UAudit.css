@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#allAudit {
+    padding-top: 4vh;
+}
+
+#AuditTitle {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.Head {
+    color: rgb(251, 251, 251);
+    background-color: #00A9AF;
+    width: 100vw;
+    height: 4vh;
+    line-height: 4vh;
+}
+
+.Font {
+    color: rgb(251, 251, 251);
+    width: 4vw;
+    height: 4vh;
+}
+
+.HeadTite {
+    width: 4vw;
+    height: 4vh;
+    margin-left: 40vw;
+}
+
+#AuditBox {
+    margin-top: 5vh;
+    padding: 0 2vw;
+}
+
+.AuditBox {
+    /* background-color: rgb(242, 242, 242); */
+    margin: 1vh 0;
+    border: rgb(242, 242, 242) 1px solid;
+    border-radius: 10px;
+    border-left: #00A9AF 1.5vw solid;
+    box-shadow: 1px 1px 5px 1px lightgray;
+}
+
+.line {
+    margin-top: -1vh;
+    /* width: 94vw;
+    margin-left: 3vw; */
+}
+
+.AuditMsg {
+    margin: 2vh;
+}
+
+#AuditConsignee {
+    margin-top: 2vh;
+}
+
+.AuditGettime {
+    float: right;
+    margin-right: 2vw;
+    color: rgb(153, 153, 153);
+    font-size: 12px;
+}
+
+
+/* 
+.Hline {
+    width: 94vw;
+    margin-left: 3vw;
+    border: dotted 1px;
+} */
+
+.DatePickerOne {
+    float: left;
+}
+
+.DatePickerTwo {
+    float: left;
+}
+
+.DatePickerThere {
+    float: left;
+}
+
+.DatePickerBtn {
+    width: 45px;
+    text-align: center;
+}
+
+
+/* 详情页样式 */
+
+.AuditWaitingTop {
+    background-color: rgb(215, 215, 215);
+    height: 20vh;
+}
+
+.AuditWaitingLeft {
+    margin-left: 3vw;
+    line-height: 10vh;
+}
+
+.AuditWaitingtext {
+    margin-left: 3vw;
+}
+
+.AuditWaitingCenter {
+    height: 15vh;
+    border: solid rgb(158, 158, 158) 1px;
+    margin-top: 2vh;
+    margin-right: 10vw;
+    line-height: 10vh;
+    border-right: none;
+    float: right;
+}
+
+.AuditWaitingRight {
+    float: right;
+    margin-right: -40px;
+}
+
+.AuditWaitingRightText {
+    float: right;
+    font-size: 50px;
+    margin-right: 30px;
+    line-height: 20vh;
+}
+
+.AuditWaitingTite {
+    margin-top: 2vh;
+    margin-left: 3vw;
+}
+
+.AuditWaitingPage {
+    background-color: rgb(242, 242, 242);
+}
+
+.AuditWaitingPaget {
+    float: left;
+    height: 14vh;
+}

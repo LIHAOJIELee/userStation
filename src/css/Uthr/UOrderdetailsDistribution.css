@@ -1,0 +1,136 @@
+.ordertop{
+	width: 100vw;
+	height: 4vh ;
+	background-color: #00A9AF;
+	text-align: center;
+	color: white;	
+}
+.ordertoptext{
+	display: inline-block;
+	padding-top: 0.6vh;
+	color: rgb(251,255,251);
+	
+}
+.ordertopicon{
+	padding-left: 0.5vw;
+	padding-top: 0.7vh;
+	float: left;
+	font-size: 20px;
+}
+.ordermiddentop{
+	
+		
+		width: 85vw;
+		border-left: 7px solid #00A9AF;
+		border-top: 1px solid #eee;
+		border-right: 1px solid #eee;
+		border-bottom: 1px solid #eee;
+		border-radius: 5px;
+		padding: 10px;
+		margin-top: 3vh;
+		margin-left: 7vw;
+		box-shadow: 2px 2px 2px #eee;
+		text-align: left;
+        height: 21vh;
+
+}
+.ordermiddentopt{
+	padding-left: 2vw;
+	width: 90vw;
+	height: 5vw;
+	font-size: 17px;
+	padding-top: 0.7vh;
+	
+}
+.ordermindentopm{
+	padding-left: 4vw;
+	width: 90vw;
+	height: 25vw;
+	padding-top: 2.5vh;
+}
+.ordermindentopm>div>span{
+	display: inline-block;
+	padding-left: 1vw;
+	color: #000066;
+}
+.ordermindentopms{
+	padding-top: 0.5vh;
+	padding-left: 1vw;
+	
+}
+.ordermiddenbtm{
+	margin-top: 5vh;
+	width:100vw;
+	height: 40vw;
+	border-bottom: gainsboro 1px solid;
+	border-top: gainsboro 1px solid;
+	text-align: left;
+}
+.ordermiddenbtm>div{
+	padding-left: 15vw;
+	padding-top: 2vh;
+	font-size: 12px;
+}
+.orderdetailtitle{
+	
+	width: 100vw;
+	height: 7vh;
+	color:dimgray;
+	
+}
+.orderdetailtitlespan{
+	display: inline-block;
+	padding-top: 6vh;
+	font-size: 18px;
+	padding-left: 3vw;
+}
+
+.orderalltable{
+	margin-top: 1vh;
+	width: 100vw;
+	height: 40vh;
+	text-align: left;
+}
+.orderalltablename{
+	padding-left: 11vw;
+	padding-top: 1.4vh;
+}
+.ordertable1{
+	width: 90vw;
+	padding-top: 3vh;
+	padding-left: 10vw;
+}
+#components-table-demo-resizable-column .react-resizable {
+  position: relative;
+  background-clip: padding-box;
+}
+
+#components-table-demo-resizable-column .react-resizable-handle {
+  position: absolute;
+  width: 10px;
+  height: 20px;
+  bottom: 0;
+  right: -5px;
+  cursor: col-resize;
+  z-index: 1;
+}
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td, .ant-table tfoot > tr > th, .ant-table tfoot > tr > td {
+  
+ 
+   height: 20px;
+	position: relative;
+    padding: 0px 20px !important;
+    overflow-wrap: break-word;
+}
+.orderalltablemessage{
+	padding-left: 11vw;
+	padding-top: 1.4vh;
+}
+.orderalltablemessage>div{
+	padding-top: 2vh;
+	
+	
+	}
+	.orderalltablemessagespan{
+		padding-left: 2vw;
+	}

@@ -1,0 +1,39 @@
+#editAddress .wmx-top {
+    width: 100%;
+    height: 30px;
+    background-color: #00A9AF;
+    line-height: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#editAddress .wmx-L {
+    font-size: 20px;
+    color: white;
+    line-height: 30px;
+}
+
+#editAddress .wmx-R {
+    font-size: 14px;
+    color: #ffffff;
+    padding-right: 5px;
+}
+
+#editAddress .wmx_s {
+    text-align: center;
+    color: white;
+    font-size: 14px;
+}
+
+#editAddress .wmx-input {
+    margin-left: 30px;
+}
+
+#editAddress .wmx-lab {
+    padding: 20px;
+    border-bottom: 1px solid #a0a0a0;
+}
+
+#editAddress .wmx-ba {
+    background: rgba(204, 204, 204, 0.58);
+}

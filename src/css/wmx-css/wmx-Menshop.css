@@ -1,0 +1,36 @@
+#menshop .wmx-top {
+    width: 100%;
+    height: 30px;
+    background-color: #00A9AF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#menshop .wmx-L {
+    /* float: left; */
+    /* font-size: 25px; */
+    color: white;
+}
+
+#menshop .wmx-R {
+    /* float: right; */
+    /* font-size: 25px; */
+    margin-top: -50px;
+    color: #dfdfdf;
+}
+
+#menshop .wmx_s {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#menshop .wmx-check {
+    padding: 30px!important;
+}
+
+#menshop .wmx-wu {
+    padding-left: 200px;
+    font-size: 18px;
+}

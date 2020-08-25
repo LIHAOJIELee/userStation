@@ -1,0 +1,76 @@
+#s_index .wmx-top {
+    width: 100%;
+    height: 30px;
+    background-color: #00A9AF;
+    display: flex;
+    justify-content: space-between;
+}
+
+#s_index .wmx-L {
+    padding-left: 2px;
+    font-size: 20px;
+    color: white;
+}
+
+#s_index .wmx-R {
+    padding-right: 5px;
+    font-size: 20px;
+    color: #dfdfdf;
+}
+
+#s_index .wmx_s {
+    text-align: center;
+    color: white;
+    padding-top: 4px;
+    font-size: 14px;
+}
+
+#s_index .wmx-d {
+    border-bottom: 1px solid #000000;
+    font-size: 12px;
+}
+
+#s_index .wmx-Sec {
+    width: 90%;
+    height: 100px;
+    border: 1px solid #787878;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.wmx-ad {
+    border-bottom: 1px solid #131313;
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 20px;
+    line-height: 20px;
+}
+
+.wmx-Right {
+    float: right;
+    font-size: 25px;
+    color: #8a8a8a;
+    margin-top: -10px;
+}
+
+.wmx-f {
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.wmx-Btn {
+    width: 80%;
+    background: #cccccc !important;
+    margin-left: 12px;
+    margin-top: 180px;
+}
+
+.wmx-Ihp {
+    color: black;
+    font-size: 30px;
+    float: right;
+    margin-top: 120px;
+}

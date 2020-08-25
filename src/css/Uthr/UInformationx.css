@@ -1,0 +1,51 @@
+
+
+.ordertop{
+	width: 100vw;
+	height: 4vh ;
+	background-color: rgb(153,153,153);
+	text-align: center;
+	color: white;
+	
+}
+.ordertoptext{
+	display: inline-block;
+	padding-top: 0.6vh;
+	color: rgb(251,255,251);
+	
+}
+.orderbuttom{
+	width: 90vw !important;
+}
+.ordertopicon{
+	padding-left: 0.5vw;
+	padding-top: 0.7vh;
+	float: left;
+	font-size: 20px;
+}
+.ant-list .ant-list-split{
+ color: #000000 !important;	
+
+	
+}
+.aaa{
+	
+  float: left;
+  padding-left: 6vw;
+	 padding-top: 5vh;
+}
+.bbb{
+	padding-top: 15vh;
+ padding-left:50vw;
+ 
+	
+}
+.customerservice{
+	font-size: 60px;
+	padding-left: 72vw;
+	padding-top: 10vh;
+	
+	}
+.picon{
+	
+}
